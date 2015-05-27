@@ -3,3 +3,4 @@
 ///////　ＰＧ機能を書く
 echo phpinfo();
 echo 'aoki edit ';
+//////
